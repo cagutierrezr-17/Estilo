@@ -1,0 +1,28 @@
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+span {
+    color: aqua;
+}
+
+h2 {
+    background-color: purple;
+    color: whitesmoke;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 10px;
+}
+
+h3 {
+    background-color: cyan;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    text-align: right;
+}
